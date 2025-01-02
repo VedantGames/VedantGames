@@ -207,7 +207,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VedantGames/VedantGames/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VedantGames/VedantGames/output/snake.svg" alt="Snake animation" />
 
 ###
 
