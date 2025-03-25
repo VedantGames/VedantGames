@@ -159,9 +159,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="30" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
   <img width="12" />
@@ -209,12 +209,4 @@
 
 <img src="https://raw.githubusercontent.com/VedantGames/VedantGames/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ndagwij2kr2jirthaochplcv5i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ndagwij2kr2jirthaochplcv5i&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+##
